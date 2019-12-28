@@ -66,7 +66,7 @@ social_links = [
     },
     {
         "name": "Weibo",
-        "url": "https://weibo.com/5245109677/",
+        "url": "https://weibo.com/44121/",
         "icon": "gi gi-weibo"
     }
 ]
